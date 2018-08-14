@@ -36,6 +36,12 @@ export default {
 
 <style lang="scss" scoped>
 @import '../../static/css/hljs.css';
+a {
+  color: #337ab7;
+  &:hover {
+    text-decoration: underline;
+  }
+}
 .article {
   box-sizing: border-box;
   padding: 0 15px;
