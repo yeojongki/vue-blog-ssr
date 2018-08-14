@@ -1,0 +1,19 @@
+export const SET_USER = 'SET_USER'
+
+export const ISLOGIN = 'ISLOGIN'
+
+export const ISADMIN = 'ISADMIN'
+
+export const SET_ARTICLE = 'SET_ARTICLE'
+
+export const SET_ARTICLELIST = 'SET_ARTICLELIST'
+
+export const SET_CURRENT_ARTICLE = 'SET_CURRENT_ARTICLE'
+
+export const CHANGE_ARTICLE_STATE = 'CHANGE_ARTICLE_STATE'
+
+export const CLEAN_CURRENTARTICLE = 'CLEAN_CURRENTARTICLE'
+
+export const SET_ALL_PAGE = 'SET_ALL_PAGE'
+
+export const SET_CUR_PAGE = 'SET_CUR_PAGE'
